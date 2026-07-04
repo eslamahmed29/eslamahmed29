@@ -85,30 +85,21 @@ Graduation Project focused on developing a healthcare platform that helps Alzhei
 Educational platform developed as a freelance project using **ASP.NET Core Web API**, **JWT Authentication**, **React**, and **Microsoft Azure**.
 
 ---
-
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=EslamAhmed29&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165"
+
+<img height="170"
 src="https://streak-stats.demolab.com?user=EslamAhmed29&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamAhmed29&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=EslamAhmed29&theme=tokyo-night&hide_border=true"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=EslamAhmed29&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
