@@ -96,7 +96,7 @@ Backend Developer | .NET | Enterprise & Business Systems
 ## 📄 Resume
 
 📌 **View my Resume:**  
-👉 [Resume](https://drive.google.com/file/d/1VbDueeNG11uh_6u8Gm_mwco_lNc9_q9T/view?usp=sharing)
+👉 [Resume](https://drive.google.com/file/d/1f3n7JIHrPqUxRL_LGas9mFrvypNXYasn/view?usp=sharing)
 
 ---
 
