@@ -1,27 +1,12 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:512BD4,100:70a5fd&height=210&section=header&text=Eslam%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=.NET%20Software%20Engineer%20%7C%20Enterprise%20ERP%20%26%20CRM%20Architect&descSize=17&descAlignY=60&descColor=e2e8f0&animation=fadeIn" width="100%" />
-</p>
+<h1 align="center">Hi 👋, I'm Eslam Ahmed</h1>
 
-<!-- TYPING SUBTITLE -->
+<h3 align="center">.NET Software Engineer &nbsp;|&nbsp; Enterprise ERP & CRM Systems</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=850&lines=.NET+Software+Engineer+(3%2B+Years+Experience);Building+Scalable+Enterprise+ERP+%26+CRM+Systems;Clean+Architecture+%7C+SOLID+Principles+%7C+RESTful+APIs;ASP.NET+Core+%E2%80%A2+EF+Core+%E2%80%A2+SQL+Server+%E2%80%A2+Azure;Backend+Mentor+%26+Continuous+Learner" alt="Typing SVG" />
 </p>
 
-<!-- QUICK ACTIONS & PROFILE VIEWS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/eslamahmed29">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" alt="LinkedIn" />
-  </a>
-  <a href="https://eslam-ahmed.el-sbaei.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=70a5fd" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1f3n7JIHrPqUxRL_LGas9mFrvypNXYasn/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-512BD4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-  </a>
-  <a href="mailto:eslamahmed2915@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire_Me-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="Email" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=EslamAhmed29&label=Profile+Views&color=512BD4&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -103,7 +88,7 @@ I focus on turning complex business operations into maintainable, high-performan
 ### 🧠 Electronic Mind of Alzheimer Patient *(Graduation Project)*
 > Healthcare support platform designed to assist Alzheimer's patients through intelligent reminders and caregiver support.
 - **My Role:** `Backend Developer` — Built the scalable backend architecture powering reminder schedules and patient data APIs.
-- **Stack:** `ASP.NET Core` · `SQL Server` · `RESTful APIs`
+- **Tech Stack:** `ASP.NET Core` · `SQL Server` · `RESTful APIs`
 
 ---
 
@@ -136,6 +121,8 @@ I focus on turning complex business operations into maintainable, high-performan
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:512BD4,100:70a5fd&height=100&section=footer" width="100%" />
+  ⭐ Thanks for visiting! Feel free to reach out for collaboration on <strong>.NET</strong>, <strong>Enterprise ERP/CRM</strong>, or <strong>Backend Architecture</strong>.
 </p>
