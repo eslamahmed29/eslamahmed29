@@ -116,7 +116,7 @@ I focus on turning complex business operations into maintainable, high-performan
   <a href="https://eslam-ahmed.el-sbaei.com">
     <img src="https://img.shields.io/badge/Portfolio-eslam--ahmed.el--sbaei.com-512BD4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/1f3n7JIHrPqUxRL_LGas9mFrvypNXYasn/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1CAw13C5YfNA8dd0Dxqh3yrJ0mGl3x5L7/preview">
     <img src="https://img.shields.io/badge/Resume-Download_PDF-1a1b27?style=for-the-badge&logo=adobeacrobatreader&logoColor=70a5fd" alt="Resume" />
   </a>
 </p>
